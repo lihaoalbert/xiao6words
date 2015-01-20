@@ -3,5 +3,8 @@
 cd ~/xiao6words
 
 git add dict.txt input.txt output.txt
+
 git commit -m ""
+
 git push -u origin master
+
